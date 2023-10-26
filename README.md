@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Ahsan Habib Rasel</h1>
-<h3 align="center">A Competitive Programmer</h3>
+<h3 align="center">Competitive Programmer</h3>
 
-- 🌱 I’m currently learning **Android Studio**
+- 🌱 I’m currently learning **App Development**
 
 - 📝 My Codeforce Account [https://codeforces.com/profile/Rasel_367](https://codeforces.com/profile/Rasel_367)
 
